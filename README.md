@@ -15,9 +15,7 @@ Experienced Senior iOS Developer with over 14 years of experience, including 10 
 # GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sralexco&theme=github_dark)<br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sralexco&theme=github_dark&exclude=)<br/>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sralexco&theme=github_dark&exclude=)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sralexco&theme=github_dark&exclude=) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sralexco&theme=github_dark&exclude=)<br/>
 
 
 
