@@ -4,6 +4,14 @@ Experienced Senior iOS Developer with over 14 years of experience, including 10 
 # Tech Stack:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)
 
+# Technical Skills:
+•	Programming Languages: Swift (Advanced), Objetive-C (Advanced).
+•	Frameworks: SwiftUI, UIKit, Combine, The Composable Architecture, RxSwift, CoreData
+•	Libraries:  Firebase, Realm, Sqlite, Cocoapods, Carthange,  Alamofire, Fastlane, Fabric, Crashlytics,
+•	Platforms: iOS, macOS, watchOS
+•	Developer Tools: Xcode, Postman, Git, Jira, Notion, Trelllo, Figma, Marvelapp, Gitflow, Github
+•	Languages: English (Fluent), Spanish (Native)
+
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sralexco&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sralexco&theme=dark&hide_border=false)<br/>
