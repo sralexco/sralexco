@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Alex
 
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)
 
 # 📊 GitHub Stats:
