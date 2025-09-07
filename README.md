@@ -4,7 +4,7 @@ Experienced Senior iOS Developer with over 14 years of experience, including 10 
 # Primary Skills:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)
 
-![sralexco's Stats](https://github-readme-stats.vercel.app/api?username=sralexco&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 # Technical Skills:
 -	Programming Languages: Swift (Advanced), Objetive-C (Advanced).
