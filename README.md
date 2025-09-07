@@ -1,6 +1,6 @@
 ![](https://github.com/sralexco/sralexco/blob/main/logo-github.png) 
 
-# About Me:
+## About Me:
 Experienced Senior iOS Developer with over 14 years of experience, including 10 years in Swift, and 5 years in SwiftUI. Proficient in designing, developing, testing, and launching high-quality mobile applications. Specialized in building scalable, high-performance, and secure solutions across industries such as banking, energy, healthcare, and startups. Expert in architecting robust, modular, and maintainable software, with a strong focus on code quality, performance, adherence to best practices and timely delivery of features with business impact.
 
 # Primary Skills:
