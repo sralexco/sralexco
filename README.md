@@ -13,8 +13,7 @@ Experienced Senior iOS Developer with over 14 years of experience, including 10 
 -	Languages: English (Fluent), Spanish (Native)
 
 # GitHub Stats:
-[![](https://raw.githubusercontent.com/sralexco/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/sralexco/github-profile-summary-cards)<br/>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sralexco&theme=github_dark)<br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=sralexco&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sralexco&theme=dark&hide_border=false)<br/>
