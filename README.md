@@ -4,8 +4,6 @@ Experienced Senior iOS Developer with over 14 years of experience, including 10 
 # Primary Skills:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
 # Technical Skills:
 -	Programming Languages: Swift (Advanced), Objetive-C (Advanced).
 -	Frameworks: SwiftUI, UIKit, Combine, The Composable Architecture, RxSwift, CoreData
@@ -15,6 +13,9 @@ Experienced Senior iOS Developer with over 14 years of experience, including 10 
 -	Languages: English (Fluent), Spanish (Native)
 
 # GitHub Stats:
+[![](https://raw.githubusercontent.com/sralexco/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)<br/>
+
+
 ![](https://github-readme-stats.vercel.app/api?username=sralexco&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sralexco&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sralexco&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
