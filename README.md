@@ -13,13 +13,13 @@ Experienced Senior iOS Developer with over 14 years of experience, including 10 
 -	Languages: English (Fluent), Spanish (Native)
 
 # GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sralexco&theme=transparent)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sralexco&theme=nord_dark)<br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sralexco&theme=transparent&exclude=) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sralexco&theme=transparent&exclude=)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sralexco&theme=nord_dark&exclude=) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sralexco&theme=nord_dark&exclude=)<br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sralexco&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sralexco&theme=transparent&utcOffset=+5.00)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sralexco&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sralexco&theme=nord_dark&utcOffset=+5.00)<br/>
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sralexco/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sralexco) 
