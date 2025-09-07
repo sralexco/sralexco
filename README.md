@@ -1,24 +1,5 @@
-## Hi there 👋
-
-<!--
-**sralexco/sralexco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-# 💫 About Me:
-Alex
-
+# About Me:
+Experienced Senior iOS Developer with over 14 years of experience, including 10 years in Swift, and 5 years in SwiftUI. Proficient in designing, developing, testing, and launching high-quality mobile applications. Specialized in building scalable, high-performance, and secure solutions across industries such as banking, energy, healthcare, and startups. Expert in architecting robust, modular, and maintainable software, with a strong focus on code quality, performance, adherence to best practices and timely delivery of features with business impact.
 
 # Tech Stack:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)
