@@ -29,7 +29,7 @@ Experienced Senior iOS Developer with over 14 years of experience, including 10 
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a>
 
-<a href="https://www.linkedin.com/in/sralexco](https://www.youtube.com/@sralexco" target="_blank" rel="noreferrer">
+<a href="https://www.youtube.com/@sralexco" target="_blank">
 <picture> 
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a>
