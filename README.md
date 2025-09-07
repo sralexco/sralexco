@@ -24,9 +24,7 @@ Experienced Senior iOS Developer with over 14 years of experience, including 10 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sralexco&theme=nord_dark&utcOffset=+5.00)<br/>
 
 ## Socials:
-<a href="https://www.linkedin.com/in/sralexco" target="_blank" rel="noreferrer">
-<picture> 
-<img src="https://github.com/sralexco/sralexco/blob/main/icon-linkedin.png" width="32" height="32" alt="Linkedin" title="Linkedin" /> </picture> </a>
+<a href="https://www.linkedin.com/in/sralexco" target="_blank" rel="noreferrer"><img src="https://github.com/sralexco/sralexco/blob/main/icon-linkedin.png" width="32" height="32" alt="Linkedin" title="Linkedin" /></a>
 <a href="https://www.youtube.com/@sralexco" target="_blank" rel="noreferrer"><img src="https://github.com/sralexco/sralexco/blob/main/icon-youtube.png" width="32" height="32" alt="YouTube" title="YouTube" /></a>
 
 <a href="https://portfolio-sralexco.vercel.app/" target="_blank" rel="noreferrer">
