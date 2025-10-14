@@ -13,8 +13,3 @@ Experienced Senior iOS Developer with over 10 years of experience in Swift, and 
 -	Platforms: iOS, macOS, watchOS
 -	Developer Tools: Xcode, Postman, Git, Jira, Notion, Trelllo, Figma, Marvelapp, Gitflow, Github
 -	Languages: English (Fluent), Spanish (Native)
-
-## GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sralexco&theme=nord_dark)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sralexco&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sralexco&theme=nord_dark&utcOffset=+5.00)<br/>
